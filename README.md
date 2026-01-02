@@ -1,6 +1,4 @@
-// test by Vishnu// new addition
-//Added a comment by Vishnu 
-// new line
+Sample edit
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.dev/)
