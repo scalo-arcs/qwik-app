@@ -1,9 +1,8 @@
-This is a test
-Sample edit
+Adding a new line for demo
 # Qwik City App ⚡️
 
 - [Qwik Docs](https://qwik.dev/)
-- [Discord](https://qwik.dev/chat)
+- ;[Discord](https://qwik.dev/chat)
 - [Qwik GitHub](https://github.com/QwikDev/qwik)
 - [@QwikDev](https://twitter.com/QwikDev)
 - [Vite](https://vitejs.dev/)
