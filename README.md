@@ -1,4 +1,4 @@
-This is a test
+Close the pr
 Sample edit
 # Qwik City App ⚡️
 
